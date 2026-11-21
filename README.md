@@ -1,2 +1,2 @@
-# Option-Trading---AI-
+# AI - Option Trading
 AI - Option Trading  Decision System 
